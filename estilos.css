@@ -1,0 +1,17 @@
+
+
+
+h1 {
+    color: red;
+    font-family: cursive;
+    font-size: 48px;
+}
+h2 {
+    color: aquamarine;
+    font-size: 25px;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 50px;
+}
