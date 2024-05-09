@@ -1,5 +1,9 @@
 
 
+body {
+    margin-top: 5cm;
+    margin-left: 5cm;
+}
 
 h1 {
     color: red;
@@ -9,9 +13,14 @@ h1 {
 h2 {
     color: aquamarine;
     font-size: 25px;
+    font-family: "Sedan SC", serif;
+}
+h3{
+    font-family: "Sedan SC", serif;
 }
 img {
     width: 200px;
     height: 200px;
     margin-left: 50px;
+
 }
