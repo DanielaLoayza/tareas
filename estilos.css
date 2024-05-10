@@ -1,17 +1,19 @@
 
 
 body {
-    margin-top: 5cm;
+    margin-top: 10px;
     margin-left: 5cm;
+    background: linear-gradient(to bottom, #f7d5cd, white);
 }
 
 h1 {
     color: red;
-    font-family: cursive;
+    font-family: "Sedan SC", serif;
     font-size: 48px;
 }
 h2 {
-    color: aquamarine;
+    padding-left: 100px;
+    color: rgb(18, 107, 77);
     font-size: 25px;
     font-family: "Sedan SC", serif;
 }
@@ -19,6 +21,8 @@ h3{
     font-family: "Sedan SC", serif;
 }
 img {
+    border-radius: 5%;
+    box-shadow: 0 0 8px green;
     width: 200px;
     height: 200px;
     margin-left: 50px;
